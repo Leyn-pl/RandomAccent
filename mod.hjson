@@ -1,7 +1,7 @@
 name: "randomaccent"
 displayName: "Random Accent"
 author: "_LEYN"
-description: "Makes Pal.accent color random on each game satart. Refresh your style!"
+description: "Makes Pal.accent color random on each game boot. Refresh your style!"
 subtitle: "Makes Pal.accent color random."
 version: "1.0"
 minGameVersion: 145
