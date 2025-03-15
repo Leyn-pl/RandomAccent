@@ -18,7 +18,7 @@ function RandomColor(color){
 			pool.pop(e)
 		};
 	});
-	let id = Math.floor(Math.random()*(pool.length+1))
+	let id = Math.floor(Math.random()*(pool.length+1));
 	Pal[color] = Pal[pool[id]];
 };
 // You can change any other color if you want to
