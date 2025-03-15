@@ -6,3 +6,4 @@ subtitle: "Makes Pal.accent color random."
 version: "1.0"
 minGameVersion: 145
 hidden: true
+repo: "https://github.com/Leyn-pl/RandomAccent"
